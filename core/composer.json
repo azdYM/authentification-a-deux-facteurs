@@ -1,0 +1,16 @@
+{
+    "name": "azad/framework",
+    "description": "framework",
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Azad YM",
+            "email": "02ym.azad@gmail.com"
+        }
+    ],
+    "require": {}
+}

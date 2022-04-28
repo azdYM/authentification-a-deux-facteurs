@@ -1,0 +1,17 @@
+{
+    "name": "zaida/app",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Azad YM",
+            "email": "02ym.azad@gmail.com"
+        }
+    ],
+    "require": {
+        "christian-riesen/otp": "^2.7"
+    }
+}
